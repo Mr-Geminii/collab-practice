@@ -1,13 +1,18 @@
-
-.container {
-    
+* {
+    text-align: center;
+}
+.header {
+    background-color: blueviolet;
+    height: 100px;
 }
 
-nav {
+.nav {
     background-color: aqua;
+    height: 100px;
+
 }
 
-.card {
+.blue {
     background-color: blue;
     height: 200px;
     
@@ -15,5 +20,15 @@ nav {
 
 .red {
     background-color: red;
+    height: 400px;
+}
+
+.green {
+    background-color: green;
     height: 200px;
+}
+
+.footer {
+    background-color: grey;
+    height: 100px;
 }
